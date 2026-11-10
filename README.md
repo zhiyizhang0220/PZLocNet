@@ -1,16 +1,4 @@
-# EAGLE-YOLO
 
-**EAGLE-YOLO: An edge-aware lightweight detector for real-time maize seedling detection in robotic intra-row weeding**
-
-This repository provides the research assets for the manuscript submitted to **Artificial Intelligence in Agriculture**. EAGLE-YOLO is an edge-aware lightweight detector built on YOLO11n for real-time maize seedling detection under complex field conditions. The method integrates EAS-Stem, BDFM, EMBS-FPN, and PowerAlign-LSCD to preserve shallow edge cues, enhance global-local feature interaction, improve multi-scale fusion, and align lightweight prediction quality.
-
-## Authors
-
-Zhiyi Zhang, Zhuohuai Guan, Saisai Liu, Shenghong Wei, Mengdi Luo, Jiahe Tang, Yuxiang Huang, Guangqiao Cao, and Zhiqi Zheng.
-
-Corresponding authors: Guangqiao Cao (caoguangqiao@126.com) and Zhiqi Zheng (zhiqizheng@nwsuaf.edu.cn).
-
-Affiliations include Hainan Institute of Northwest A&F University; Nanjing Institute of Agricultural Mechanization, Ministry of Agriculture and Rural Affairs; College of Mechanical and Electric Engineering, Northwest A&F University; and Scientific Research Base for Conservation Tillage Mechanization (Yellow River Basin), Ministry of Agriculture and Rural Affairs.
 
 ## Repository status
 
